@@ -1,4 +1,4 @@
-<h1 align="center">PhumipatJatikawanit</h1>
+<h1 align="center">Phumipat Jatikawanit</h1>
 <h3 align="center">I’m a passionate developer who loves coding, innovation, and problem-solving. I enjoy building projects across software, web, AI, medical technology, and system development, turning ideas into practical solutions. I have hands-on experience with Python, Java, C/C++, and modern web technologies, with a growing interest in AI-driven healthcare, medical data analysis, and intelligent systems for medical applications. My interests span full-stack development, machine learning, robotics, cloud systems, and medical innovation, driven by a strong belief that technology can improve lives and transform healthcare.</h3>
 
 # 💻 Tech Stack:
