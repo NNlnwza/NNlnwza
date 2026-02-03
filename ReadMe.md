@@ -1,15 +1,4 @@
-# 💫 About Me:
-
-I’m a passionate developer who loves coding, innovation, and problem-solving.
-I enjoy building projects across software, web, AI, medical technology, and system development, turning ideas into practical solutions.
-
-I have hands-on experience with Python, Java, C/C++, and modern web technologies, with a growing interest in AI-driven healthcare, medical data analysis, and intelligent systems for medical applications.
-
-My interests span full-stack development, machine learning, robotics, cloud systems, and medical innovation, driven by a strong belief that technology can improve lives and transform healthcare.
-
-✨ Always exploring. Always building. Always improving.
-
-<h1 align="center">Hi 👋, I'm PhumipatJatikawanit</h1>
+<h1 align="center">PhumipatJatikawanit</h1>
 <h3 align="center">I’m a passionate developer who loves coding, innovation, and problem-solving. I enjoy building projects across software, web, AI, medical technology, and system development, turning ideas into practical solutions. I have hands-on experience with Python, Java, C/C++, and modern web technologies, with a growing interest in AI-driven healthcare, medical data analysis, and intelligent systems for medical applications. My interests span full-stack development, machine learning, robotics, cloud systems, and medical innovation, driven by a strong belief that technology can improve lives and transform healthcare.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnlnwza&label=Profile%20views&color=0e75b6&style=flat" alt="nnlnwza" /> </p>
